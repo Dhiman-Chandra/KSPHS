@@ -1,0 +1,36 @@
+.head-notics{
+    color: red;
+    column-rule-style: dashed;
+    background-color: aqua;
+}
+.head-bg{
+    background-image: url("images/bg-images/school-bg.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.head-bg img{
+    width: 50%;
+    height: 50%;
+}
+ 
+.gates{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+}
+
+.anchor-tag{
+    display: inline-block;
+    color: white;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    text-decoration: none;
+    padding: 12px 12px;
+    border-radius: 5px;
+    font-weight: bold;
+    float: left;
+}
+.center{
+    text-align: center;
+}
