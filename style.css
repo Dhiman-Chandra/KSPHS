@@ -13,6 +13,11 @@
     width: 50%;
     height: 50%;
 }
+
+.gate{
+    text-align: center;
+}
+
  
 .gates{
         display: block;
@@ -29,8 +34,23 @@
     padding: 12px 12px;
     border-radius: 5px;
     font-weight: bold;
-    float: left;
+    
 }
 .center{
     text-align: center;
+}
+
+
+
+
+
+
+
+/* khdfkdfhk */
+
+.logo-batch{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
